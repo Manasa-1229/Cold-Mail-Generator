@@ -17,4 +17,5 @@ results= collection.query(
     query_texts = ['Query is about chole Bhature'],
     n_results =2
 )
+
 print(results)
