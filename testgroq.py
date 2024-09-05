@@ -21,6 +21,5 @@ llm = ChatGroq(
     # other params...
 )
 
-
 response = llm.invoke("Andrew ng is a poineer in ...")
 print(response)

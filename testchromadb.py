@@ -11,6 +11,7 @@ collection.add(
     ids= ['id1','id2','id3','id4']
 )
 all_docs =collection.get()
+
 print(all_docs)
 
 results= collection.query(
